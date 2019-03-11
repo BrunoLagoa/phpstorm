@@ -1,0 +1,27 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="InstalledPluginsSearchHistory" value="theme" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="repository&#10;Color Scheme&#10;theme" />
+    <property name="TrendingPluginsSearchHistory" value="Material Theme UI" />
+    <property name="evlsprt3.183" value="18" />
+    <property name="export.settings.path" value="C:\Users\Bruno\Google Drive\Clientes\Outros\settings.zip" />
+    <property name="file.chooser.recent.files" value="C:/xampp/htdocs/flaviavasconcelos.com.br/erp&#10;C:/xampp/htdocs/pratil&#10;C:/xampp/htdocs/elevadores_otis&#10;C:/xampp/htdocs/acordo_estacio/server.php&#10;C:/xampp/htdocs/acordo_estacio/public&#10;C:/xampp/htdocs/bhzautomacao.com.br/robo&#10;C:/xampp/settings-16-01-2019.jar&#10;C:/xampp/htdocs/faleestacio.com.br/portal_estacio&#10;C:/xampp/htdocs/acordo_estacio&#10;C:/xampp/htdocs/cobdigital.com.br/portal_unicarioca&#10;F:/VAIO/IDE/settings-16-01-2019.jar" />
+    <property name="file.gist.reindex.count" value="22186" />
+    <property name="fileTypeChangedCounter" value="8" />
+    <property name="idea.background.frame" value="https://raw.githubusercontent.com/ChrisRM/material-theme-jetbrains/master/src/main/resources/themes/wall.jpg,60" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
